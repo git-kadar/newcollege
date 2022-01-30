@@ -1,6 +1,6 @@
 import java.io.*;
 public class VariableDemo {
-
+// Change wii see eclipse wait....
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//Declaring a variable with value
